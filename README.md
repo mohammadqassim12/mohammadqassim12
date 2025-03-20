@@ -35,6 +35,13 @@
 
 ## 🚀 Technical Projects  
 
+### **[Dotcoin – Blockchain-Based Cryptocurrency](https://github.com/mohammadqassim12/Dotcoin)**  
+🛠 **Tech:** JavaScript | Node.js | Keccak256 | Base58 | UTXO Model  
+- Developed a **UTXO-based blockchain** with **one-time address enforcement** for enhanced security.  
+- Implemented **server-side transaction validation**, ensuring integrity before inclusion in the blockchain.  
+- Built a **custom mining mechanism** using **Keccak256 hashing & Base58 encoding** for block validation.  
+- Developed **client-side wallet functionalities**, allowing users to **create accounts, check balances, and transfer funds**.
+
 ### **[Pursuiter – AI-Powered Job Application Platform](https://github.com/mohammadqassim12/Pursuiter)**  
 🛠 **Tech:** MongoDB | Express.js | React.js | Node.js  
 - Engineered **AI-driven applicant filtering**, reducing screening time by **40%**.  
@@ -62,5 +69,5 @@
 ---
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Al-Qasem-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammadqasemm/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Al--Qasem-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammadqasemm/)  
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadqassim12-black?style=flat&logo=github)](https://github.com/mohammadqassim12)  
